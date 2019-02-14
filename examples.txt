@@ -1,0 +1,45 @@
+
+
+(venv) C:\$CLASS NOTES\551 AI\assign1>python route1.py 
+
+Medford,_Wisconsin
+['Withee,_Wisconsin', 'Thorp,_Wisconsin', '10', 0.222, 'Polley,_Wisconsin', '13', 0.289, 'Gilman,_Wisconsin', '3', 0.067]
+pending:
+Yarkansas handle-Y_City,_Arkansas
+astar
+
+26.0 0.578 Withee,_Wisconsin Thorp,_Wisconsin Polley,_Wisconsin Gilman,_Wisconsin
+
+python route1.py Abbot_Village,_Maine Sangerville,_Maine bfs/uniform/ids distance/time/segments
+
+
+python route1.py Abbot_Village,_Maine Sandy_Stream_Mountain,_Maine idssegments
+
+python route1.py Abbot_Village,_Maine Sangerville,_Maine dfs distance/time
+but
+python route1.py Abbot_Village,_Maine Sangerville,_Maine dfs segments gives non optimal result
+python route1.py Abbot_Village,_Maine Sangerville,_Maine dfs segments 
+
+distance/time/
+s[s_key])
+
+
+
+
+Bloomington,_Indiana Chicago,_Illinois
+15 6 11 17 21 12 12 29 51 7 5  5 11 7=209
+
+time
+294 5.718  Bloomington,_Indiana Spencer,_Indiana Terre_Haute,_Indiana Montezuma,_Indiana Chrisman,_Illinois Danville,_Illinois Champaign,_Illinois Gilman,_Illinois Ashkum,_I
+llinois Kankakee,_Illinois Joliet,_Illinois Bolingbrook,_Illinois Willow_Springs,_Illinois Chicago,_Illinois
+disance
+209 4.337  Bloomington,_Indiana Spencer,_Indiana Romona,_Indiana Cloverdale,_Indiana Morton,_Indiana Crawfordsville,_Indiana Romney,_Indiana Lafayette,_Indiana Remington,_In
+diana Merrillville,_Indiana Schererville,_Indiana Highland,_Indiana Hammond,_Indiana Jct_I-90_&_I-94_S,_Illinois Chicago,_Illinois
+Indianapolis,_Indiana
+
+Abbot_Village,_Maine Jackman_Station,_Maine Sandy_Stream_Mountain,_Maine Armstrong,_Quebec St-Georges-de-Beauce,_Quebec Ste-Rose-de-Watford,_Quebec St-Fabien-de-
+Panet,_Quebec Montmagny,_Quebec Riviere-du-Loup,_Quebec Trois-Pistoles,_Quebec Rimouski,_Quebec Mont-Joli,_Quebec Matane,_Quebec Ste-Anne-des-Monts,_Quebec New_Richmond,_Que
+bec Flatlands,_New_Brunswick Campbellton,_New_Brunswick Five_Fingers,_New_Brunswick St-Leonard,_New_Brunswick Van_Buren,_Maine Madawaska,_Maine Fort_Kent,_Maine Ashland,_Mai
+ne Presque_Isle,_Maine Mars_Hill,_Maine Houlton,_Maine Woodstock,_New_Brunswick Longs_Creek,_New_Brunswick Thomaston_Corner,_New_Brunswick St._Stephen,_New_Brunswick Calais,
+_Maine Perry,_Maine Whiting,_Maine East_Machias,_Maine Harrington,_Maine Milbridge,_Maine Jct_US_1_&_ME_182_W,_Maine Ellsworth,_Maine Orland,_Maine Stockton_Springs,_Maine H
+ampden,_Maine Unity,_Maine Fairfield,_Maine Newport,_Maine Jct_I-95_&_I-395,_Maine Bangor,_Maine Dover-Foxcroft,_Maine Sangerville,_Maine
